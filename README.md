@@ -1,7 +1,13 @@
 - 👋 @bowtiedbarbary
-- 👀 #BTC #STX #LINK
-- 🌱 Lightning, Node.JS, Web3.JS, Clairty, Rust, 
-- 💞️ I’m looking to collaborate on dAPPS: NFT Mins, Non-custodial Casino, Coinswap, Atomic Swaps, Lightning, Atomic Swaps
+- 👀 #BTC #STX 
+- 🌱 Lightning, Javascript (Node, React, Web3.JS), Clarity, Solidity, 
+- 💞️ I’m looking to collaborate: dApps on STX and Lightning Network --> 
+-     GoFundMe style Charity
+-     Lightning Casino + Derivatives + Sports Betting using Discreet Log Contracts and Oracles
+-     Matrix/Telegram style messenger + L-payments
+-     Streaming and Lightning Pay Walls for newsletters, podcasts, etc.
+-     Coinswap, Decentralizing Privacy Mixing Platform (non custodial)
+-     
 - 📫 bowtiedbarbary@gmail.com
 
 <!---
